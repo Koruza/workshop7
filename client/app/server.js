@@ -1,5 +1,6 @@
 // var token = 'eyAiaWQiOiA0IH0NCg==';
 var token = 'eyJpZCI6IjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwNCJ9';
+// github went down right when i pushed and my commit didn't reach the server ;-;
 /**
  * Properly configure+send an XMLHttpRequest with error handling, authorization token,
  * and other needed properties.
